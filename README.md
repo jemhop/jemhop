@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi, I'm Emma</h1>
 <h3 align="center">I have a tendency to start on incredibly ambitious projects way before I'm ready for them</h3>
 
