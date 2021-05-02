@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Emma</h1>
-<h3 align="center">I have a tendency to start on incredibly ambitious projects way before I'm ready for them</h3>
+<h3 align="center">I like ambitious projects and space (mainly space)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jemhop&label=Profile%20views&color=0e75b6&style=flat" alt="jemhop" /> </p>
 
-- 🔭 I’m currently working on [an OpenGL voxel engine](https://github.com/jemhop/JavaCraft)
+- 🔭 I’m currently working on: [an OpenGL voxel engine](https://github.com/jemhop/JavaCraft)
 
-- 🌱 I’m currently learning **OpenGL, Javascript, C, Rust**
+- 🌱 I’m currently learning: **OpenGL, Javascript, C, Rust**
 
-- 💬 Pronouns **She/her (they if you feel like it)**
+- 💬 Pronouns: **She/her (they if you feel like it)**
 
-- ⚡ Fun fact **Money game**
+- ⚡ Fun fact: **Money game**
 
 
 <h3 align="left">Languages and Tools:</h3>
