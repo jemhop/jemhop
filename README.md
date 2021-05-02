@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **OpenGL, Javascript, C, Rust**
 
+- 💬 Pronouns **She/her (they if you feel like it)**
+
 - ⚡ Fun fact **Money game**
 
 
