@@ -1,3 +1,4 @@
-i like space.. and rocket
+rocket cool
 
-Pronouns: **She/her (they if you feel like it)**
+she/her
+
